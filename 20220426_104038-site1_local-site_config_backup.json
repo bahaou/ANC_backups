@@ -1,0 +1,12 @@
+{
+ "db_name": "_1bd3e0294da19198",
+ "db_password": "XnmWwoBUgpwBLpb0",
+ "db_type": "mariadb",
+ "maintenance_mode": 0,
+"developer_mode":1,
+"host_name":"http://172.18.0.1:80",
+ "pause_scheduler": 0,
+ "user_type_doctype_limit": {
+  "employee_self_service": 10
+ }
+}
